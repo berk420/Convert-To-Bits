@@ -1,0 +1,13 @@
+C:\Users\berkg\source\repos\Convert to bits\Convert to bits\bin\Debug\netcoreapp3.1\Convert to bits.exe
+C:\Users\berkg\source\repos\Convert to bits\Convert to bits\bin\Debug\netcoreapp3.1\Convert to bits.deps.json
+C:\Users\berkg\source\repos\Convert to bits\Convert to bits\bin\Debug\netcoreapp3.1\Convert to bits.runtimeconfig.json
+C:\Users\berkg\source\repos\Convert to bits\Convert to bits\bin\Debug\netcoreapp3.1\Convert to bits.runtimeconfig.dev.json
+C:\Users\berkg\source\repos\Convert to bits\Convert to bits\bin\Debug\netcoreapp3.1\Convert to bits.dll
+C:\Users\berkg\source\repos\Convert to bits\Convert to bits\bin\Debug\netcoreapp3.1\Convert to bits.pdb
+C:\Users\berkg\source\repos\Convert to bits\Convert to bits\obj\Debug\netcoreapp3.1\Convert to bits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berkg\source\repos\Convert to bits\Convert to bits\obj\Debug\netcoreapp3.1\Convert to bits.AssemblyInfoInputs.cache
+C:\Users\berkg\source\repos\Convert to bits\Convert to bits\obj\Debug\netcoreapp3.1\Convert to bits.AssemblyInfo.cs
+C:\Users\berkg\source\repos\Convert to bits\Convert to bits\obj\Debug\netcoreapp3.1\Convert to bits.csproj.CoreCompileInputs.cache
+C:\Users\berkg\source\repos\Convert to bits\Convert to bits\obj\Debug\netcoreapp3.1\Convert to bits.dll
+C:\Users\berkg\source\repos\Convert to bits\Convert to bits\obj\Debug\netcoreapp3.1\Convert to bits.pdb
+C:\Users\berkg\source\repos\Convert to bits\Convert to bits\obj\Debug\netcoreapp3.1\Convert to bits.genruntimeconfig.cache
