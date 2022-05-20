@@ -26,7 +26,7 @@ Projenin kullanımı oldukça basittir.
 Bitwise işlemlerini anlamanıza yardımcı olur: [Bitwise](https://docs.microsoft.com/tr-tr/dotnet/csharp/language-reference/operators/bitwise-and-shift-operators)
 
 ## License
-Licensed under the [MIT License(LICENSE)
+Licensed under the [MIT License](LICENSE)
 
 
 
